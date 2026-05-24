@@ -1,0 +1,6 @@
+ultralytics
+matplotlib
+opencv-python
+pandas
+seaborn
+squarify
